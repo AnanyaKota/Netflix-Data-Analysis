@@ -27,7 +27,7 @@ Plotly → Interactive charts
 
 ### 🔹 Content Type Distribution
 Displays the number of Movies and TV Shows available on Netflix using a bar chart. Helps understand which content dominates the platform.
-Content Type Chart (outputs/html/content_type.html)
+![Content Type Distribution](outputs/images/content_type.png)
 
 ### 🌍 Top 10 Countries with Most Content
 Visualizes the top 10 countries producing the most content on Netflix. Useful for identifying geographical content trends.
