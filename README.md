@@ -44,7 +44,7 @@ Line chart showing how many titles were added to Netflix each year. Great for un
 
 ### 🎭 Top 10 Genres
 Breakdown of the most frequent genres on Netflix. Data extracted by splitting the genre column.
-![Top Genres](outputs/images/top_genres.png)
+![Top Genres](outputs/images/top_generes.png)
 
 ### 🎬 Top 10 Directors
 Bar chart of the most prolific directors on the platform based on number of titles.
